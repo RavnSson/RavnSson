@@ -18,14 +18,13 @@
 <ul>
   <li>🎓 Estudiante de <strong>Ingeniería en Informática</strong> (Chile).</li>
   <li>💻 Interés en <strong>desarrollo de software</strong>, UX/UI y apps interactivas.</li>
-  <li>🕯️ Afinidad por lo <strong>gótico, cyberpunk y lo medieval</strong>.</li>
   <li>🧩 Me gusta unir <strong>tecnología + estética + experiencia de usuario</strong>.</li>
   <li>🕳️ Construyendo el estudio / marca <strong>Umbryne</strong> para apps y juegos.</li>
 </ul>
 
 <h2>⚙️ Stack & herramientas</h2>
 <p>
-  <strong>Lenguajes:</strong> Python · Java · JavaScript · Dart (Flutter) · SQL<br>
+  <strong>Lenguajes:</strong> Python · JavaScript · Dart · SQL<br>
   <strong>Frontend:</strong> HTML · CSS · Tailwind CSS (aprendiendo) · Flutter<br>
   <strong>Backend / DB:</strong> PostgreSQL · MySQL · REST APIs (en formación)<br>
   <strong>Dev tools:</strong> Git · GitHub · Linux (Arch-based) · Docker (aprendiendo)<br>
@@ -61,12 +60,6 @@
   <li>Organizando la base teórica de una app de eventos (modelo de datos, vistas, MVP).</li>
   <li>Mejorando mis bases en <strong>backend</strong> (APIs, bases de datos y buenas prácticas).</li>
   <li>Construyendo una estética coherente para <strong>Umbryne</strong> y mis proyectos personales.</li>
-</ul>
-
-<h2>🖤 Contacto & redes</h2>
-<ul>
-  <li>🐦‍⬛ GitHub: <a href="https://github.com/RavnSson" target="_blank">github.com/RavnSson</a></li>
-  <li>🌑 Umbryne: <a href="https://umbryne.cl" target="_blank">umbryne.cl</a> (en construcción)</li>
 </ul>
 
 <hr>
