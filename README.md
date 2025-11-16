@@ -55,7 +55,7 @@
   </li>
 </ul>
 
-<h2>📡 Qué estoy haciendo ahora</h2>
+<h2>Qué estoy haciendo ahora</h2>
 <ul>
   <li>Organizando la base teórica de una app de eventos (modelo de datos, vistas, MVP).</li>
   <li>Mejorando mis bases en <strong>backend</strong> (APIs, bases de datos y buenas prácticas).</li>
