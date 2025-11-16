@@ -1,6 +1,6 @@
 <!-- README de perfil GitHub - RavnSson / Umbryne -->
 <div align="center">
-  <h1>👁️‍🗨️ RavnSson</h1>
+  <h1>| RavnSson |</h1>
   <h3>Ingeniero en Informática · Dev en construcción · Umbryne Studio</h3>
 </div>
 
@@ -14,15 +14,15 @@
 
 <hr>
 
-<h2>🜁 Sobre mí</h2>
+<h2>Sobre mí</h2>
 <ul>
-  <li>🎓 Estudiante de <strong>Ingeniería en Informática</strong> (Chile).</li>
-  <li>💻 Interés en <strong>desarrollo de software</strong>, UX/UI y apps interactivas.</li>
-  <li>🧩 Me gusta unir <strong>tecnología + estética + experiencia de usuario</strong>.</li>
-  <li>🕳️ Construyendo el estudio / marca <strong>Umbryne</strong> para apps y juegos.</li>
+  <li>Estudiante de <strong>Ingeniería en Informática</strong> (Chile).</li>
+  <li>Interés en <strong>desarrollo de software</strong>, UX/UI y apps interactivas.</li>
+  <li>Me gusta unir <strong>tecnología + estética + experiencia de usuario</strong>.</li>
+  <li>Construyendo el estudio / marca <strong>Umbryne</strong> para apps y juegos.</li>
 </ul>
 
-<h2>⚙️ Stack & herramientas</h2>
+<h2>Stack & herramientas</h2>
 <p>
   <strong>Lenguajes:</strong> Python · JavaScript · Dart · SQL<br>
   <strong>Frontend:</strong> HTML · CSS · Tailwind CSS (aprendiendo) · Flutter<br>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter badge">
 </p>
 
-<h2>📂 Algunos proyectos</h2>
+<h2>Algunos proyectos</h2>
 <ul>
   <li>
     <strong>Umbryne Landing</strong> – Página para mi estudio / marca personal.
