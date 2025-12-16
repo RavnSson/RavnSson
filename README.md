@@ -24,10 +24,10 @@
 
 <h2>Stack & herramientas</h2>
 <p>
-  <strong>Lenguajes:</strong> Python · JavaScript · Dart · SQL<br>
+  <strong>Lenguajes:</strong> Python · Dart · SQL<br>
   <strong>Frontend:</strong> HTML · CSS · Tailwind CSS (aprendiendo) · Flutter<br>
   <strong>Backend / DB:</strong> PostgreSQL · MySQL · REST APIs (en formación)<br>
-  <strong>Dev tools:</strong> Git · GitHub · Linux (Arch-based) · Docker (aprendiendo)<br>
+  <strong>Dev tools:</strong> Git · GitHub · Linux · Docker (aprendiendo)<br>
 </p>
 
 <!-- Badges simples (puedes borrar o editar) -->
