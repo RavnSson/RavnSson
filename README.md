@@ -24,8 +24,8 @@
 
 <h2>Stack & herramientas</h2>
 <p>
-  <strong>Lenguajes:</strong> Python · Dart · SQL<br>
-  <strong>Frontend:</strong> HTML · CSS · Tailwind CSS (aprendiendo) · Flutter<br>
+  <strong>Lenguajes:</strong> Dart · Python · SQL<br>
+  <strong>Frontend:</strong> Flutter · HTML · CSS · Tailwind CSS (aprendiendo)<br>
   <strong>Backend / DB:</strong> PostgreSQL · MySQL · REST APIs (aprendiendo)<br>
   <strong>Dev tools:</strong> Git · GitHub · Linux · Docker (aprendiendo)<br>
 </p>
@@ -43,18 +43,14 @@
     <br>
     <span>Dart · Flutter</span>
   <li>
-    <strong>App de eventos locales</strong> – Hub de panoramas, tiendas y creadores.
-    <br>
-    <span>Flutter · Dart · PostgreSQL</span>
-  </li>
-  <li>
     <em>Más proyectos en camino…</em>
   </li>
 </ul>
 
 <h2>Qué estoy haciendo ahora</h2>
 <ul>
-  <li>Organizando la base teórica de una app de eventos (modelo de datos, vistas, MVP).</li>
+  <li>Desarrollando una app para el cobro de tarifas en estacionamientos</li>
+  <li>Organizando la base teórica de una app para emprendedores (modelo de datos, vistas, MVP).</li>
   <li>Mejorando mis bases en <strong>backend</strong> (APIs, bases de datos y buenas prácticas).</li>
   <li>Construyendo una estética coherente para <strong>Umbryne</strong> y mis proyectos personales.</li>
 </ul>
@@ -63,6 +59,6 @@
 
 <p align="center">
   <sub>
-    “La máquina es solo la superficie; lo interesante es lo que hacemos con ella.”
+    “Todo está conectado..”
   </sub>
 </p>
