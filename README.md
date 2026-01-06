@@ -16,7 +16,7 @@
 
 <h2>Sobre mí</h2>
 <ul>
-  <li>Egresado de <strong>Ingeniería en Informática</strong> (Chile).</li>
+  <li>Egresado de <strong>Ingeniería en Informática</strong>.</li>
   <li>Interés en <strong>desarrollo de software</strong>, UX/UI, Backend y apps interactivas.</li>
   <li>Me gusta unir <strong>tecnología + estética + experiencia de usuario</strong>.</li>
   <li>Construyendo el estudio / marca <strong>Umbryne</strong> para apps.</li>
@@ -36,7 +36,7 @@
   <li>
     <strong>Umbryne Landing</strong> – Página para mi estudio / marca personal.
     <br>
-    <span>HTML · CSS · Tailwind CSS</span>
+    <span>HTML · Tailwind CSS · Javascript</span>
   </li>
   <li>
     <strong>Calculadora de tarifas</strong> - App para calcular tarifas en estacionamiento.
