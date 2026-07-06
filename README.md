@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavnSson&hide_border=true&theme=tokyonight" alt="Racha de contribuciones">
+  <img src="https://streak-stats.demolab.com/?user=RavnSson&hide_border=true&theme=tokyonight" alt="Racha de contribuciones">
 </div>
 
 <hr>
