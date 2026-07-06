@@ -82,14 +82,11 @@
 </ul>
 
 <h2>Mis estadísticas</h2>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RavnSson&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats de RavnSson">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavnSson&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RavnSson&hide_border=true&theme=tokyonight" alt="Racha de contribuciones">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RavnSson&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil">
+  <img src="https://img.shields.io/github/followers/RavnSson?label=Seguidores&style=for-the-badge&color=0e75b6" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/RavnSson?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars">
+</p>
 
 <hr>
 
